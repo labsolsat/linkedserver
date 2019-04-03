@@ -1,1 +1,2 @@
 
+Presentacion con los detalles básicos para la implementación de Servidores Vinculados mediante ODBC
